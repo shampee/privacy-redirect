@@ -19,6 +19,7 @@ const redirects = [
   { link: "https://whoogle.sdf.org", q: "/search" },
   { link: "https://whoogle.himiko.cloud", q: "/search" },
   { link: "https://whoogle-search.zeet.app", q: "/search" },
+  { link: "https://searx.laserdisc.tokyo, q: "/search" },
 ];
 
 export default {
